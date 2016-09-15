@@ -25,7 +25,7 @@ import org.jinstagram.entity.users.feed.MediaFeedData;
 public class Database extends Thread {
 
 	private static final String driver = "org.postgresql.Driver";
-	private static final String url = "jdbc:postgresql:grep";
+	private static final String url = "jdbc:postgresql:instareport";
 	private static final String user = "postgres";
 	private static final String password = "1735ranger";
 	

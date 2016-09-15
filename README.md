@@ -1,6 +1,14 @@
 # InstaReport
 Crawl Instagram by certain Hashtag and Organize it with a form of Report.
 
+* Prerequisites
+
+jdk
+postgresql
+- recommends Postgresql.app, pgadmin.
+- needs to set db, id, pw to match the original source code.
+instagram accounts (under 50)
+
 * InstagramCrawler
 
 Crawl i to j with #hashtag and store it.
