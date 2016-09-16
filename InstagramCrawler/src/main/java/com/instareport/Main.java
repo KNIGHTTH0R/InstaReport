@@ -103,7 +103,7 @@ public class Main implements TaskCallback {
 	}
 	
 	public boolean initCondition() {
-		tag = "먹스타그램";// 24837/44274 정도.
+		tag = "오후8시피그타임";// 24837/44274 정도.
 		
 		lower = 0;
 		
